@@ -3,7 +3,7 @@
   <groupId>com.captain</groupId>
   <artifactId>Springboot-Goa-App</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
 	<name>spring-boot-goa-app</name>
 
